@@ -53,7 +53,7 @@ Mail attachments are not supported.
 ## Installation
 
 To install the app you need to download the `.apk` file from
-[this](https://github.com/cmader/HttpClient-WearOS) repository. After that, the file must be
+[this](https://github.com/cmader/MailReader) repository. After that, the file must be
 transferred to the Wear OS device (smartwatch). There are several guides how to do this, for
 example [here](https://www.makeuseof.com/sideload-apps-wear-os-galaxy-watch/) and
 [here](https://xdaforums.com/t/how-to-install-apps-on-wear-os-all-methods.4510255/). Just use the
