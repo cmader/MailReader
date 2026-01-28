@@ -1,12 +1,12 @@
 # ![Icon](res/icon.svg) MailReader-WearOS
 
-MailReader is a Wear OS app for reading mails that reside on an (secured) IMAP server. The following
+MailReader is a stand-alone Wear OS app for reading mails that reside on an (secured) IMAP server. The following
 functionality is supported:
 
 * Connection to IMAPS (IMAP over SSL/TLS) Server
 * Selection of mail folder
 * Tagging a mail as read and setting a flag
-* Text-based view of the mail content
+* Text-based view of the mail content (only reading, *NO* mail composition)
 
 ## Configuration
 
