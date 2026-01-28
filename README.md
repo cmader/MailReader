@@ -48,6 +48,8 @@ If the selected mail contains a textual representation (content type `text/plain
 source for the mail content. However, sometimes mails are available just in HTML format, so the application
 does its best to make the HTML content readable for human users as plain-text.
 
+Mail attachments are not supported.
+
 ## Installation
 
 To install the app you need to download the `.apk` file from
