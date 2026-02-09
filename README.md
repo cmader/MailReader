@@ -22,6 +22,10 @@ connection parameters.
 ![config_screen](res/config_screen_1.png)
 ![config_screen](res/config_screen_2.png)
 
+Additionally, an interval to periodically check for new mail can be configured. **Please note**:
+In order for notifications to be displayed correctly, you may have to enable notifications for the
+MailReader app in the Wear OS settings.
+
 These settings can be changed later by clicking the cog icon in the mail list screen.
 
 ## Mail List Screen
@@ -71,6 +75,7 @@ a Samsung Galaxy Watch 5.
 
 ## Changelog
 
+* v1.1.0: Add support for notification on new mail
 * v1.0.0: Initial version
 
 ## Other Notes
