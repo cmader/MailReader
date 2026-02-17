@@ -8,12 +8,6 @@ functionality is supported:
 * Tagging a mail as read and setting a flag
 * Text-based view of the mail content (only reading, *NO* mail composition)
 
-Planned features:
-
-* Notification on new mail arrival
-* Adjustable sort order
-* Search functionality
-
 ## Configuration
 
 When the app is first started, the configuration screen appears that lets you enter the IMAP server 
